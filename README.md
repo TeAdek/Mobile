@@ -54,7 +54,6 @@ The videos can be background play
 3.	Follow an established design specification to make the app easier to use
 4.	Focus on a smooth navigation and make it touch focused by designing the interface to be big enough for users to tap
 5.	Distinguish between the tappable and non-elements either by color or shape. E.g. a tappable link could be blue, while the body of content could remain black.
-blue coloured text with an underline, we understand that it is a hyper-link. This happens from our experience with this type of representation style for many years. The cursor changes to a ‘hand’ icon while hovering the hyper-link — another indication that supports our earlier understanding. The solution is to place go-to-action elements (buttons or text) on the tile to indicate that a tap is enabled and it is not a header image.
 6.	Discovering new UI function with different icons to instinctively understand their meaning later on.
 7.	Provide a short walk through and coach marks of new functions to new users or non tech savvy individual. 
 
