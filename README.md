@@ -8,7 +8,7 @@
     **The good**
 
  - Its search engine is good, not great but adds a lot of niche shows.
- ![Alt Text](C:\Users\User\Documents\GitHub\Mobile\Screenshot_20210119-213832_TV Time.jpg)
+ ![Alt Text](Screenshot_20210119-213832_TV Time.jpg)
 - Its interface is appealing and convenient with visual display of the shows I added.
  
 - It recently added a movie list into it’s app without making a different app for movies which is convenient.  
